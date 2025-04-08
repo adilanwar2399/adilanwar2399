@@ -1,5 +1,4 @@
 ## adilanwar2399's Github Profile
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Adil's github stats](https://github-readme-stats.vercel.app/api?username=adilanwar2399)](https://github.com/anuraghazra/github-readme-stats)
 
