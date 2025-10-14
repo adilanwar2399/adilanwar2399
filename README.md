@@ -13,7 +13,7 @@
 - ⇒ SMT Solvers Theory
 - 💬 Ask me about: Bounded Model Checking, Invariant Generation, Prompt Engineering Techniques, LLMs and Software Verification.
 - 📫 How to reach me:
-- ⇒ Email: muhammad.pirzada@manchester.ac.uk
+- ⇒ Email: muhammad.pirzada@postgrad.manchester.ac.uk
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
